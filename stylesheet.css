@@ -1,0 +1,41 @@
+body {
+    font-family: 'Zilla Slab', serif;
+}
+
+.container {
+    margin-top: 40px;
+    background-color: #fff;
+}
+
+.row {
+    margin-top: 100px;
+}
+.text-center {
+    text-align: center;
+}
+
+.btn-close {
+    font-size: 2em;
+}
+
+#btn-video {
+    background-color: #faebd7;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 2em;
+    border-radius: 5px;
+    border: none;
+}
+
+#header {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#header h1 {
+    font-size: 5em;
+}
+
+#vidModal {
+    text-align: center;
+}
